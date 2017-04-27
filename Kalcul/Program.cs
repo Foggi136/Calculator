@@ -125,7 +125,7 @@ namespace Kalkul
         {
             var k = ConsoleKey.Escape;
             var cki = new ConsoleKeyInfo();
-            Console.WriteLine("Alfa version 0.1.0\tДля выходы из программы нажмите Escape\nВведите ваш пример: ");
+            Console.WriteLine("Alfa version 0.1.0\tДля выходы из программы нажмите Escape\nВведите ваш пример:");
             do
             {
                 double result = MathExprIntepreter.Execute(Console.ReadLine());
