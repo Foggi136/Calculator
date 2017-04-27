@@ -1,0 +1,6 @@
+c:\users\home\documents\visual studio 2015\Projects\Kalcul\Kalcul\bin\Debug\Kalcul.exe.config
+C:\Users\home\documents\visual studio 2015\Projects\Kalcul\Kalcul\obj\Debug\Kalcul.csprojResolveAssemblyReference.cache
+C:\Users\home\documents\visual studio 2015\Projects\Kalcul\Kalcul\bin\Debug\Kalcul.exe
+C:\Users\home\documents\visual studio 2015\Projects\Kalcul\Kalcul\bin\Debug\Kalcul.pdb
+C:\Users\home\documents\visual studio 2015\Projects\Kalcul\Kalcul\obj\Debug\Kalcul.exe
+C:\Users\home\documents\visual studio 2015\Projects\Kalcul\Kalcul\obj\Debug\Kalcul.pdb
